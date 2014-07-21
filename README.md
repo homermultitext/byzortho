@@ -1,4 +1,12 @@
-byzortho
-========
+#byzortho#
 
-Mapping of words in Byzantine Greek MSS of HMT project to normalized equivalents in modern orthography
+
+Mapping forms of words appearing in Byzantine Greek MSS of the
+Homer Multitext project to normalized equivalents in modern orthography.
+
+For more information, see [the project wiki][wiki].
+
+
+
+
+[wiki]: https://github.com/homermultitext/byzortho/wiki
