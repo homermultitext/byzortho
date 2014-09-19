@@ -1,6 +1,5 @@
 #byzortho#
 
-
 Mapping forms of words appearing in Byzantine Greek MSS of the
 Homer Multitext project to normalized equivalents in modern orthography.
 
