@@ -4,7 +4,7 @@ SORT=`which sort`
 TAIL=`which tail`
 
 
-MAX=`$PERL -pe 's/,.+//' orthoequivs.csv | $PERL -pe 's/urn:cite:hmt:normalized.//' - | $SORT -n | $TAIL -1`
+MAX=`$PERL -pe 's/,.+//' orthoequivs.csv | $PERL -pe 's/urn:cite:hmt:byzortho.//' - | $SORT -n | $TAIL -1`
 
-echo Highest assigned id = urn:cite:hmt:normalized.$MAX
+echo Highest assigned id = urn:cite:hmt:byortho.$MAX
 
