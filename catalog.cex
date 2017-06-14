@@ -1,0 +1,12 @@
+#!citecatalog
+
+urn:cite2:hmt:byzortho.2017a:#Mapping of forms in in Byzantine orthography to modern conventions#urn:cite2:hmt:astro.2017a:Token#CC-attribution-share-alike
+
+
+# urn,Token,Normalized,Status,Comments
+
+property#urn:cite2:hmt:astro.2017a:urn#URN#Cite2Urn#
+property#urn:cite2:hmt:astro.2017a:token:#Token#String#
+property#urn:cite2:hmt:astro.2017a:normalized:#Normalized#String#
+property#urn:cite2:hmt:astro.2017a:status:#Status#String#proposed,approved,rejected
+property#urn:cite2:hmt:astro.2017a:comments:#Comments#String#
